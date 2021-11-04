@@ -1,0 +1,44 @@
+*{
+    font-family: 'Nanum Myeongjo', serif;
+}
+.signin_container{
+  width: 300px;
+  height: 300px;
+  border: solid 2px green;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 12px;
+}
+.signin_title{
+  font-size: 25px;
+  text-align: center;
+  margin: 20px
+}
+div{
+   font-weight: bold;
+  margin: 10px;
+}
+input[type="text"]{
+  width: 250px;
+  height: 35px;
+  border: solid 1px gray;
+  border-radius: 6px;
+  margin: 10px;
+    
+}
+input[type="password"]{
+  width: 250px;
+  height: 35px;
+  border: solid 1px gray;
+  border-radius: 6px;
+  margin: 10px;
+}
+#confirmBtn{
+  text-align: center;
+  color: white;
+  width: 250px;
+  height: 35px;
+  border-radius: 4px;
+  margin: 10px;
+  background-color: green;
+}
